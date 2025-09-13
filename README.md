@@ -1,10 +1,10 @@
-<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/pritamchaudhary/" target="_blank"> Pritam Kumar </a> </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pritamchaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="pritam-chaudhary" /> </p>
+<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/tulendra-chandrakar-095973223" target="_blank"> Tulendra Chandrakar </a> </h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tulendra1111&label=Profile%20views&color=0e75b6&style=flat" alt="Tulendra1111" /> </p>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Web+Developer;MERN+Stack+Enthusiast;Cloud+Computing+Learner" /> </h3>
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
-  <a href="https://www.linkedin.com/in/pritamchaudhary/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/tulendra-chandrakar-095973223"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:pritamchaudhary901@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
    <a href="https://www.instagram.com/_pritamchaudhary"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
