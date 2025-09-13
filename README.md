@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/tulendra-chandrakar-095973223" target="_blank"> Tulendra Chandrakar </a> </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tulendra1111&label=Profile%20views&color=0e75b6&style=flat" alt="Tulendra1111" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tulendra1111&label=Profile%20views&color=0e75b6&style=flat" alt="Tulendra-Chandrakar" /> </p>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Web+Developer;MERN+Stack+Enthusiast;Cloud+Computing+Learner" /> </h3>
 
 <h3 align="left">Connect with me:</h3>
@@ -32,11 +32,11 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=pritamchaudhary&show_icons=true&theme=dark&locale=en" alt="pritam-chaudhary" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pritamchaudhary&show_icons=true&theme=dark&locale=en&layout=compact" alt="pritam-chaudhary" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Tulendra1111&show_icons=true&theme=dark&locale=en" alt="Tulendra-Chandrakar" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tulendra1111&show_icons=true&theme=dark&locale=en&layout=compact" alt="Tulendra-Chandrakar" /></td>
   </tr>
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pritamchaudhary&theme=dark" alt="pritam-chaudhary" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tulendra1111&theme=dark" alt="Tulendra-Chandrakar" /></p>
   </div>
